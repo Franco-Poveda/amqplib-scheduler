@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "Easy messages scheduling with amqplib.",
   "main": "./lib/scheduler.js",
-  "author": "Franco Poveda (Pogui) <franco.poveda@gmail.com>",
+  "author": "Franco Poveda <franco.poveda@gmail.com> (Pogui)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Franco-Poveda/amqplib-scheduler.git"
+    "url": "git+https://github.com/Franco-Poveda/amqplib-scheduler.git"
   },
   "bugs": {
     "url": "https://github.com/Franco-Poveda/amqplib-scheduler/issues"
@@ -18,6 +18,12 @@
     "scheduler",
     "amqp"
   ],
-  "dependencies": {
+  "dependencies": {},
+  "homepage": "https://github.com/Franco-Poveda/amqplib-scheduler#readme",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

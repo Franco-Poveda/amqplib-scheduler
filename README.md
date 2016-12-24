@@ -37,10 +37,13 @@ Options
 -------
 
 the scheduler initialization accepts a second optional parameter (`options`) :
-```json
-{
-	prefix: 	[temp queue name prefix, defaults to 'schedule'],
-  	separator: 	[temp queue name separator, defaults to '.'],
-    threshold: 	[temp queue expires after delay + threshold, defaults to 10000]
-}
-```
+
+>{
+
+>	**prefix**: 	[temp queue name prefix, defaults to 'schedule'],
+
+> 	**separator**: 	[temp queue name separator, defaults to '.'],
+
+>  **threshold**: 	[temp queue expires after delay + threshold, defaults to 10000]
+
+>}
