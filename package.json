@@ -1,0 +1,23 @@
+{
+  "name": "amqplib-scheduler",
+  "version": "0.0.1",
+  "description": "Easy messages scheduling with amqplib.",
+  "main": "./lib/scheduler.js",
+  "author": "Franco Poveda (Pogui) <franco.poveda@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Franco-Poveda/amqplib-scheduler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Franco-Poveda/amqplib-scheduler/issues"
+  },
+  "keywords": [
+    "amqplib",
+    "rabbitmq",
+    "scheduler",
+    "amqp"
+  ],
+  "dependencies": {
+  }
+}
